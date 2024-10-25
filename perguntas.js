@@ -11,7 +11,7 @@ criaCartao(
 )
 
 criaCartao(
-    'LIteratura', 
+    'Literatura', 
     'Quem escreveu o Dom Casmurro?',
     'Machado de Assis',
 )
