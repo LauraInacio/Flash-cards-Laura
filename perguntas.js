@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Arte', 
-    'Qual artista pintou "A Noite EStrelada?',
-    'Vincent van Gogh',
+    'Qual artista pintou "A Noite Estrelada?',
+    'Vincent Van Gogh',
 )
